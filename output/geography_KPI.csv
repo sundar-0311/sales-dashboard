@@ -1,0 +1,168 @@
+location,sales,profit,profit_margin,geo_type
+United States,1304983.0,286397.02,21.95,Country
+France,527001.0,109029.0,20.69,Country
+Australia,516935.0,105484.96,20.41,Country
+Mexico,416248.0,102818.1,24.7,Country
+Germany,389504.0,107322.82,27.55,Country
+China,369117.0,150683.08,40.82,Country
+India,302740.0,129071.84,42.63,Country
+United Kingdom,300219.0,111900.15,37.27,Country
+Brazil,250193.0,30090.5,12.03,Country
+Indonesia,224323.0,15608.68,6.96,Country
+Italy,190042.0,19828.76,10.43,Country
+Spain,165717.0,54390.12,32.82,Country
+El Salvador,123855.0,42023.24,33.93,Country
+Philippines,120184.0,-16128.23,-13.42,Country
+Cuba,116278.0,38889.22,33.45,Country
+New Zealand,107022.0,16600.28,15.51,Country
+Dominican Republic,106501.0,-7613.5,-7.15,Country
+Nicaragua,101270.0,33401.44,32.98,Country
+Turkey,92535.0,-98447.23,-106.39,Country
+Guatemala,88550.0,27944.69,31.56,Country
+Honduras,82116.0,-29482.37,-35.9,Country
+Iran,79159.0,26856.24,33.93,Country
+Egypt,61843.0,19702.23,31.86,Country
+South Africa,61608.0,21936.63,35.61,Country
+Colombia,59414.0,18798.05,31.64,Country
+Netherlands,59390.0,-41070.07,-69.15,Country
+Ukraine,56783.0,20944.23,36.88,Country
+Morocco,56356.0,22761.42,40.39,Country
+Austria,56166.0,24341.7,43.34,Country
+Russia,55623.0,22536.45,40.52,Country
+Japan,52085.0,24328.47,46.71,Country
+Nigeria,51554.0,-80750.72,-156.63,Country
+Iraq,50335.0,18243.21,36.24,Country
+Canada,50326.0,17817.39,35.4,Country
+Democratic Republic of the Congo,49820.0,21860.58,43.88,Country
+Saudi Arabia,49817.0,19339.59,38.82,Country
+Argentina,47791.0,-18693.8,-39.12,Country
+Vietnam,47586.0,-1870.23,-3.93,Country
+Panama,46261.0,-17723.45,-38.31,Country
+Thailand,41130.0,-7308.2,-17.77,Country
+Pakistan,38983.0,-22446.65,-57.58,Country
+Malaysia,35797.0,16329.96,45.62,Country
+Poland,34709.0,10983.12,31.64,Country
+Bangladesh,32799.0,19430.89,59.24,Country
+Chile,30019.0,7744.33,25.8,Country
+Belgium,29116.0,11572.59,39.75,Country
+Singapore,28702.0,8853.06,30.84,Country
+Romania,27592.0,7626.27,27.64,Country
+South Korea,27422.0,-12792.83,-46.65,Country
+Myanmar (Burma),26348.0,-2109.26,-8.01,Country
+Venezuela,25534.0,-11222.71,-43.95,Country
+Algeria,25415.0,9106.5,35.83,Country
+Sweden,23425.0,-17519.37,-74.79,Country
+Tanzania,18866.0,5727.97,30.36,Country
+Angola,18252.0,6494.97,35.58,Country
+Peru,17834.0,-5507.88,-30.88,Country
+Ghana,16338.0,5568.54,34.08,Country
+Senegal,15920.0,7511.16,47.18,Country
+Ireland,15610.0,-7392.38,-47.36,Country
+Cote d'Ivoire,15343.0,6430.62,41.91,Country
+Zambia,15257.0,7001.73,45.89,Country
+Sudan,15103.0,3619.5,23.97,Country
+Kenya,14974.0,3992.1,26.66,Country
+Mozambique,14399.0,5935.8,41.22,Country
+Israel,13916.0,3559.23,25.58,Country
+Switzerland,13650.0,7237.47,53.02,Country
+Norway,13450.0,5167.77,38.42,Country
+Finland,13312.0,3905.73,29.34,Country
+Cameroon,13024.0,5664.75,43.49,Country
+Bulgaria,11283.0,3922.59,34.77,Country
+Madagascar,11099.0,3296.58,29.7,Country
+Afghanistan,10900.0,5460.3,50.09,Country
+Haiti,9946.0,-4187.31,-42.1,Country
+Ecuador,9847.0,2548.1,25.88,Country
+Czech Republic,9579.0,2093.55,21.86,Country
+Portugal,9111.0,-8703.06,-95.52,Country
+Denmark,8643.0,-4282.05,-49.54,Country
+Cambodia,8378.0,4476.54,53.43,Country
+Belarus,7846.0,4534.26,57.79,Country
+Bolivia,7763.0,2229.35,28.72,Country
+Hungary,7191.0,3201.93,44.53,Country
+Jordan,6272.0,1823.7,29.08,Country
+Libya,5340.0,2044.5,38.29,Country
+Barbados,5338.0,2199.79,41.21,Country
+Rwanda,5197.0,1336.44,25.72,Country
+Moldova,5139.0,1127.22,21.93,Country
+Kyrgyzstan,5103.0,1735.32,34.01,Country
+Uzbekistan,5092.0,1648.14,32.37,Country
+Niger,4814.0,1819.77,37.8,Country
+Trinidad and Tobago,4806.0,2300.48,47.87,Country
+Mali,4659.0,2291.55,49.19,Country
+Kazakhstan,4602.0,-7099.9,-154.28,Country
+Croatia,4463.0,1303.92,29.22,Country
+Mongolia,4422.0,1506.42,34.07,Country
+Somalia,4354.0,1005.27,23.09,Country
+Togo,4150.0,816.87,19.68,Country
+Jamaica,4091.0,1392.23,34.03,Country
+Zimbabwe,3767.0,-5428.78,-144.11,Country
+Syria,3740.0,693.21,18.54,Country
+Benin,3664.0,1349.19,36.82,Country
+Azerbaijan,3574.0,1831.05,51.23,Country
+Georgia,3529.0,1285.68,36.43,Country
+Nepal,3522.0,877.44,24.91,Country
+Guinea,3498.0,951.24,27.19,Country
+Lithuania,3382.0,-8966.12,-265.11,Country
+Martinique,3073.0,1114.21,36.26,Country
+Hong Kong,2955.0,1558.11,52.73,Country
+Uruguay,2816.0,1689.34,59.99,Country
+Lebanon,2797.0,908.4,32.48,Country
+Bosnia and Herzegovina,2600.0,660.18,25.39,Country
+Paraguay,2591.0,415.23,16.03,Country
+Yemen,2464.0,-3706.46,-150.42,Country
+Mauritania,2450.0,1675.95,68.41,Country
+Sierra Leone,2449.0,471.75,19.26,Country
+Djibouti,2394.0,804.09,33.59,Country
+Taiwan,2383.0,1818.6,76.32,Country
+Albania,2270.0,709.32,31.25,Country
+Liberia,2133.0,1044.9,48.99,Country
+Guinea-Bissau,2065.0,411.39,19.92,Country
+Turkmenistan,2029.0,-3302.71,-162.78,Country
+Qatar,1904.0,1502.88,78.93,Country
+Papua New Guinea,1787.0,-418.61,-23.43,Country
+Tunisia,1762.0,602.1,34.17,Country
+Gabon,1752.0,479.67,27.38,Country
+Estonia,1711.0,1110.18,64.88,Country
+Uganda,1625.0,-2426.09,-149.3,Country
+Guadeloupe,1462.0,476.2,32.57,Country
+Namibia,1436.0,736.95,51.32,Country
+Central African Republic,1377.0,468.54,34.03,Country
+Republic of the Congo,1054.0,280.74,26.64,Country
+South Sudan,1045.0,186.36,17.83,Country
+Slovakia,866.0,115.26,13.31,Country
+Sri Lanka,852.0,86.37,10.14,Country
+Ethiopia,850.0,290.16,34.14,Country
+Montenegro,773.0,1286.76,166.46,Country
+United Arab Emirates,742.0,-1036.86,-139.74,Country
+Bahrain,669.0,12.84,1.92,Country
+Lesotho,373.0,1398.21,374.86,Country
+Slovenia,290.0,590.04,203.46,Country
+Swaziland,288.0,86.76,30.13,Country
+Burundi,268.0,103.08,38.46,Country
+Tajikistan,242.0,-262.87,-108.62,Country
+Macedonia,210.0,43.38,20.66,Country
+Eritrea,188.0,76.2,40.53,Country
+Armenia,156.0,69.09,44.29,Country
+Equatorial Guinea,150.0,44.46,29.64,Country
+Chad,29.0,90.0,310.34,Country
+APAC,2001990.0,437577.58,21.86,Market
+EU,1803981.0,372829.74,20.67,Market
+LATAM,1563597.0,221643.49,14.18,Market
+US,1304983.0,286397.02,21.95,Market
+EMEA,575744.0,43897.97,7.62,Market
+Africa,538302.0,88871.63,16.51,Market
+Canada,50326.0,17817.39,35.4,Market
+Central,1807431.0,311403.98,17.23,Region
+South,1031558.0,140355.77,13.61,Region
+North,790907.0,194597.95,24.6,Region
+Oceania,625744.0,121666.64,19.44,Region
+EMEA,575744.0,43897.97,7.62,Region
+Africa,538302.0,88871.63,16.51,Region
+Southeast Asia,532448.0,17852.33,3.35,Region
+North Asia,454002.0,165578.42,36.47,Region
+West,424418.0,108418.45,25.55,Region
+Central Asia,389796.0,132480.19,33.99,Region
+East,366752.0,91522.78,24.95,Region
+Caribbean,251495.0,34571.32,13.75,Region
+Canada,50326.0,17817.39,35.4,Region
